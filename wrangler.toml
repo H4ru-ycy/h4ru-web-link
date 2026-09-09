@@ -1,0 +1,5 @@
+name = "h4ru-web-link"
+compatibility_date = "2026-08-24"
+
+[assets]
+directory = "./public"
